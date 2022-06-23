@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aasifali1
 - 👀 I’m interested in Application Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently working on Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
